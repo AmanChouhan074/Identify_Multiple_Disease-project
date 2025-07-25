@@ -2,7 +2,7 @@
 
 This is a simple machine learning project to predict different diseases based on symptoms using Python.
 
-## 🔍 About
+# 🔍 About
 
 - Uses a dataset of symptoms and diseases.
 - Trains a Random Forest model to predict diseases.
@@ -11,4 +11,23 @@ This is a simple machine learning project to predict different diseases based on
 ## 📁 Files
 
 - identify_multiple_disease.py : Main code file.
-- Dataset: [Click to view](https://github.com/YBI-Foundation/Dataset/raw/refs/heads/main/MultipleDise
+   
+# 🔧 Technologies Used
+
+- Python
+- Pandas
+- Dataset
+- google colab
+  
+## 📊 Usage
+Run the google colab
+
+-"Follow the steps inside the notebook to":
+
+-Load data
+
+-Preprocess it
+
+-Train the model
+
+-Predict diseases from new input
